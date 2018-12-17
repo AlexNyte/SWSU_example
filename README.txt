@@ -1,1 +1,1 @@
-Этот файл создан для выполнения задания by Nikita
+Alexander Zhukov "was here"
